@@ -12,7 +12,7 @@ print('''\033[91m
     | |/ _ \ / _ \| |______> <  
     | | (_) | (_) | |     / . \
     |_|\___/ \___/|_|    /_/ \_\ 
-   TOOL DEVELOPER BOSS YM.
+      TOOL DEVELOPER BOSS YM.
 ''')
 def slowprint(s):
     for c in s + '\n' :
@@ -41,7 +41,7 @@ slowprint(''' \033[93m
 [21] host               [22] dnsutils
 [23] coreutils          [24] fish
 [25] zip                [27] tor
-[28] hydra             [29] figlet 
+[28] hydra              [29] figlet 
 [30] cowsay             [31] tar
 [32] unzip              [33] vim
 [34] ruby               [35] wcalc

@@ -82,10 +82,6 @@ os.system ("apt install nmap -y")
 os.system ("apt install w3m -y")
 os.system ("apt install hydra -y")
 
-
-print ("""subscribe Hacker BOSS""")
-os.system ("am start -a android.intent.action.VIEW -d https://t.me/joinchat/RgDJj5M3csCpuubq")
-
 os.system ("apt install ruby2 -y")
 os.system ("apt install macchanger -y")
 os.system ("apt install host -y")

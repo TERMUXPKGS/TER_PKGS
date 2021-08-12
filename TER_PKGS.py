@@ -21,7 +21,7 @@ print (''' \033[95m
 ї┄─━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━─┄ї
 | This Tool Install All Basic Packages |
 ї┄─━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━─┄ї
-| Coded By @BOSS_lol0 |version : 3.0|
+| DEVBOSS TM @BOSS_lol0 |version : 3.0|
 ї┄─━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━─┄ї''')
 
 slowprint(''' \033[93m
@@ -38,7 +38,7 @@ slowprint(''' \033[93m
 [21] host               [22] dnsutils
 [23] coreutils          [24] fish
 [25] zip                [27] tor
-[28] hydra             [29] figlet 
+[28] hydra              [29] figlet 
 [30] cowsay             [31] tar
 [32] unzip              [33] vim
 [34] ruby               [35] wcalc
